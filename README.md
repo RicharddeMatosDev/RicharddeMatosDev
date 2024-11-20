@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, meu nome é Richard de Matos!
 
-<!--
-**RicharddeMatosDev/RicharddeMatosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou programador Front End apaixonado pela criação de interfaces digitais funcionais e atraentes. Atualmente, estou aprofundando meus conhecimentos em programação, com foco no desenvolvimento de projetos utilizando HTML e CSS. Além disso, estou iniciando meu aprendizado em JavaScript, buscando expandir minhas habilidades e construir soluções mais dinâmicas para a web.
 
-Here are some ideas to get you started:
+Acredito que a constante evolução e aprendizado são fundamentais no universo da tecnologia, por isso estou sempre em busca de novos desafios e oportunidades para melhorar minhas habilidades. Tenho como objetivo crescer na área de desenvolvimento Front End e contribuir para a criação de experiências de usuário inovadoras e acessíveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou empolgado com o futuro da programação e ansioso para continuar minha jornada, enfrentando novos desafios e aprimorando minhas competências.
+
+<br/>
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicharddeMatosDev)](https://github.com/anuraghazra/github-readme-stats)
